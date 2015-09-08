@@ -1,0 +1,20 @@
+{
+  "items": [
+    {
+      "label": "Boston",
+      "n": 10
+    },
+    {
+      "label": "Phonix",
+      "n": 20
+    },
+    {
+      "label": "Newjersey",
+      "n": 30
+    },
+    {
+      "label": "Dallas",
+      "n": 40
+    }
+  ]
+}
